@@ -1,0 +1,13 @@
+# env files
+.env*
+!.env.example
+
+# node
+node_modules/
+
+# build
+.next/
+dist/
+
+# logs
+npm-debug.log*
