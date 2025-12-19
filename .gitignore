@@ -1,13 +1,13 @@
-# env files
+# Environment variables
 .env*
 !.env.example
 
-# node
+# Node
 node_modules/
 
-# build
+# Build output
 .next/
 dist/
 
-# logs
+# Logs
 npm-debug.log*
